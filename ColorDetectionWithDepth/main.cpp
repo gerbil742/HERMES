@@ -4,7 +4,7 @@
 #include "mykinect.h"
 #include "myopencv.h"
 #include "pingpongmatch.h"
-//#include "myopengl.h"
+#include "myopengl.h"
 
 // Dont understand what happens when you do the array cast
 int main(int argc, char** argv)
